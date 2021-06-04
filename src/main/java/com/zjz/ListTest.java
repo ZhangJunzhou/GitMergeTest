@@ -11,10 +11,10 @@ import java.util.List;
  */
 public class ListTest {
     public static void main(String[] args) {
-        List<Integer> list = Arrays.asList(new Integer[]{1, 2});
+        List<Integer> listOfBranch2 = Arrays.asList(new Integer[]{1, 2});
 
-        for(int i = 0; i < list.size(); i++){
-            System.out.println(list.get(i));
+        for(int i = 0; i < listOfBranch2.size(); i++){
+            System.out.println(listOfBranch2.get(i));
         }
     }
 
