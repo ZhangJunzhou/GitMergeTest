@@ -1,8 +1,6 @@
 package com.zjz;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.HashMap;
 import java.util.List;
 
 /**
@@ -17,5 +15,4 @@ public class ListTest {
             System.out.println(listOfBranch2.get(i));
         }
     }
-
 }
